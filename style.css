@@ -1,0 +1,14 @@
+#line_1, #line_5{
+    text-decoration: underline;
+}
+
+#line_2{
+    background-color: rgb(231, 154, 39);
+}
+
+#line_3, #line_4{
+    color: red;
+    font-style: bold;
+    font-weight: 1000;
+}
+
